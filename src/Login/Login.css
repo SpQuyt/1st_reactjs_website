@@ -1,0 +1,29 @@
+.Screen {
+  min-height: 100vh;
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.Login-box {
+  border-width: 3px;
+  border-color: black;
+  width: 70vh;
+  height: 50vh;
+  background-color: pink;
+}
+
+.Login-title {
+  text-align: center;
+  font-size: 24;
+  font-style: italic;
+}
+
+.Login-name {
+
+}
+
+.Login-pass {
+
+}
