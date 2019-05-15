@@ -37,6 +37,14 @@ const data = [
   {
     name: 'Dao Trung Kien',
     age: 21
+  },
+  {
+    name: 'Dang Huong Mai',
+    age: 21
+  },
+  {
+    name: 'Nguyen Thu Thuy',
+    age: 21
   }
 ]
 

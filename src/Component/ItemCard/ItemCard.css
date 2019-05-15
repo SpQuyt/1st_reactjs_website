@@ -1,0 +1,35 @@
+.Card-container {
+  min-width: 25vh;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: brown;
+  border-radius: 8px;
+  margin: 15px;
+  box-sizing: border-box;
+  overflow: hidden;
+  box-shadow: 2px 2px 25px 0px;
+}
+.Card-container:hover {
+  box-shadow: 0px 0px 0px 0px;
+  background-color: pink;
+}
+.Card-footer {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+}
+/* .Card-footer:hover {
+  background-color: white;
+} */
+.Name {
+  color: black;
+  font-size: 14;
+}
+.Age {
+  font-size: 14;
+}
